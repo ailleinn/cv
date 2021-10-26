@@ -1,0 +1,57 @@
+@media screen and (max-width: 1024px) 
+	{
+
+	.entete
+	{
+		text-align: right;
+		text-decoration: underline;
+		font-size: 0.6em;
+		margin-right: initial;
+	}
+	.banner {
+		max-width: initial;
+	}
+	.contact {
+		font-size: 1.2em;
+		font-family: 'castamereregular';
+	}
+	.myself {
+		font-weight: bold;
+		font-size: 2em;
+	}
+	.cv {
+		flex-direction: column;
+	}
+	#contenucv {
+		margin: 15px;
+		width: 95%;
+	}
+	#contenucv h1 { 
+       	font-size: 3em;
+   	}
+	#contenucv h3 {
+		font-size: 2em;
+		margin-bottom: 20px;
+	}
+	.titre {
+		font-size: 1em;
+	}
+	.reco {
+		flex-direction: column;
+		font-size: 0.9em;
+		margin: 10px;
+	}
+	.know {
+		margin-bottom: 10px;
+	}
+	.know p {
+		margin: 10px;
+	}
+	.title{
+		border-radius: 10px;
+	}
+
+
+
+
+}
