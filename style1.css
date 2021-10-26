@@ -12,12 +12,12 @@
 		max-width: initial;
 	}
 	.contact {
-		font-size: 1.2em;
+		font-size: 1.3em;
 		font-family: 'castamereregular';
 	}
 	.myself {
 		font-weight: bold;
-		font-size: 2em;
+		font-size: 1.8em;
 	}
 	.cv {
 		flex-direction: column;
@@ -38,7 +38,7 @@
 	}
 	.reco {
 		flex-direction: column;
-		font-size: 0.9em;
+		font-size: 1rem;
 		margin: 10px;
 	}
 	.know {
